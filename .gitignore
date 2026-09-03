@@ -1,0 +1,57 @@
+# ==============================
+# Environment & Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+secrets/
+
+# ==============================
+# Python (FastAPI backend)
+# ==============================
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# ==============================
+# Node / React frontend
+# ==============================
+node_modules/
+frontend/dist/
+frontend/build/
+npm-debug.log*
+
+# ==============================
+# Vector DB & Cache
+# ==============================
+chroma_db/
+backend/chroma_db/
+.ingest_cache.json
+
+# ==============================
+# Large Archives & Temp Repos
+# ==============================
+*.zip
+fast.zip
+repo_clone/
+extract.py
+
+# ==============================
+# Data & Large Media
+# ==============================
+*.mp4
+*.pdf
+backend/data/
+
+# ==============================
+# Logs, OS & IDE Files
+# ==============================
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.swytchcode/
