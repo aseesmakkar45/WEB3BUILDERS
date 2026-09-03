@@ -1,0 +1,26 @@
+Query: haha that's crazy
+Top 3 distances: [0.17175990343093872, 0.18044912815093994, 0.1868661642074585]
+Top doc snippet: This is crazy.
+--------------------------------------------------
+Query: what's up
+Top 3 distances: [0.21427881717681885, 0.24980711936950684, 0.2651047110557556]
+Top doc snippet: Good morning 😀
+--------------------------------------------------
+Query: What do you think about the latest OpenAI model?
+Top 3 distances: [0.2075003981590271, 0.24098682403564453, 0.243660569190979]
+Top doc snippet: This letter about OpenAI was just sent to me. 
+
+These seem like concerns worth investigating.
+
+https
+--------------------------------------------------
+Query: What are your thoughts on settling Mars?
+Top 3 distances: [0.23598718643188477, 0.23598718643188477, 0.2801574468612671]
+Top doc snippet: Colonizing Mars (thanks Prof Hubbard for creating this from my talk). Major changes to the plan comi
+--------------------------------------------------
+Query: FSD beta v12 release notes
+Top 3 distances: [0.18672889471054077, 0.18725848197937012, 0.20750421285629272]
+Top doc snippet: Good feedback from FSD Beta 10 users! 10.0.1 point release rolling out now. 
+
+10.1 rolls out a week 
+--------------------------------------------------
