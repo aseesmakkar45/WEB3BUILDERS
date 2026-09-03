@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+sse-starlette
+python-dotenv
+chromadb
+sentence-transformers
+PyMuPDF
+langgraph
+langchain-core
+google-genai
+pandas
